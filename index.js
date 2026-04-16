@@ -26,4 +26,5 @@ async function getBadgeAwardDate(userId, badgeId) {
   }
 }
 
+clear(); // Clears console cuz its messy
 getBadgeAwardDate(userId, badgeId);

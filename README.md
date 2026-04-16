@@ -1,7 +1,9 @@
 # Roblox Achievement Checker
 Shows what date you obtained a roblox achievement, Roblox+ which used to work is discontinued so this should be a solution.
 
-Ive tested this it works! just press CTRL+I or right click inspect and console, type 'allow pasting' and paste the index.js in
+Ive tested this it works! just press CTRL+I or right click inspect and console, type 'allow pasting' and paste the index.js code in
+**YOUR PROFILE ID IS in the url on https://www.roblox.com/users/THENUMBERHERE/profile**
+**BADGE ID IS IN the url on https://www.roblox.com/badges/THENUMBERHERE/**
 
 Its not a virus you can check for yourself
 
